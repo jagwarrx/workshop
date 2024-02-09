@@ -1,6 +1,6 @@
 
 
-<table border="1">
+<table class="ml-20 mt-20" border="10">
     <tr>
       <th>First Name</th>
       <th>Last Name</th>
